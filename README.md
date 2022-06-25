@@ -1,2 +1,2 @@
 # BorsaOtomasyonu
-Bu bir test projesidir. Önemsizdir. Silinecektir.
+Bu bir test projesidir. Önemsiz ve Silinecek..
